@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02fc62a4.chunk.css",
+    "main.js": "/static/js/main.29230b3d.chunk.js",
+    "main.js.map": "/static/js/main.29230b3d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.812b7f19.js",
+    "runtime-main.js.map": "/static/js/runtime-main.812b7f19.js.map",
+    "static/css/2.cd7aadec.chunk.css": "/static/css/2.cd7aadec.chunk.css",
+    "static/js/2.9370a64e.chunk.js": "/static/js/2.9370a64e.chunk.js",
+    "static/js/2.9370a64e.chunk.js.map": "/static/js/2.9370a64e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a4ba18d76e38b1f8640e23d3c9c62c9a.js": "/precache-manifest.a4ba18d76e38b1f8640e23d3c9c62c9a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.cd7aadec.chunk.css.map": "/static/css/2.cd7aadec.chunk.css.map",
+    "static/css/main.02fc62a4.chunk.css.map": "/static/css/main.02fc62a4.chunk.css.map",
+    "static/js/2.9370a64e.chunk.js.LICENSE.txt": "/static/js/2.9370a64e.chunk.js.LICENSE.txt",
+    "static/media/StandardOfficeSupplies.png": "/static/media/StandardOfficeSupplies.16dda9d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.812b7f19.js",
+    "static/css/2.cd7aadec.chunk.css",
+    "static/js/2.9370a64e.chunk.js",
+    "static/css/main.02fc62a4.chunk.css",
+    "static/js/main.29230b3d.chunk.js"
+  ]
+}

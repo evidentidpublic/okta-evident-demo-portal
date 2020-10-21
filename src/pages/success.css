@@ -1,0 +1,36 @@
+h2 {
+  text-align: center;
+}
+
+/* button {
+  border-width: 1px;
+  border-color: #d2d2e2;
+  background-color: #224365;
+  height: 30px;
+  color: #fff;
+  font-weight: 700;
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100;
+} */
+
+.continue-button {
+  height: 51.8px;
+  width: 194.6px;
+  border-radius: 25.9px;
+  background-color: #3E99E5;
+  margin-top: 27.5px;
+  font: 16px "Roboto Regular", sans-serif;
+}
+
+.success-message {
+  white-space: nowrap;
+  color: #0D0E0E;
+  font: Roboto Regular;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 140px;
+}

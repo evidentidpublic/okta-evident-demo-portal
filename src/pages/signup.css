@@ -1,0 +1,96 @@
+body {
+  font: 14px "Roboto Regular", sans-serif;
+  background-color: #EEF3F7;
+  margin:0; 
+  height: 600px;
+  overflow:hidden;
+}
+
+h1 {
+  padding-left: 20px;
+  text-align: center;
+  color: #8DB2D1;
+}
+
+.h1-center {
+  padding-left: 20px;
+  text-align: center;
+}
+
+.create-account {
+  display: inline-block;
+  white-space: nowrap;
+  height: 21px;
+  width: 174px;
+  color: #0D0E0E;
+  font: Roboto Regular;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: 34px;
+}
+
+form {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.form-center {
+  text-align: center;
+}
+
+.main-container {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -2%);
+    width: 100%;
+}
+
+.main-entry-box {
+  text-align: center;
+  display: inline-block;
+  height: 406.7px;
+  width: 505.4px;
+  border-radius: 4.9px;
+  background-color: #FFFFFF;
+  box-shadow: 0 3px 6px 0 #CAD8E3;
+  margin-top: 63px;
+}
+
+.submit-button {
+  height: 51.8px;
+  width: 194.6px;
+  border-radius: 25.9px;
+  background-color: #3E99E5;
+  margin-top: 27.5px;
+  font: 16px "Roboto Regular", sans-serif;
+}
+
+.clicked-button {
+  height: 51.8px;
+  width: 194.6px;
+  border-radius: 25.9px;
+  background-color: #8DB2D1;
+  margin-top: 27.5px;
+  font: 14px "Roboto Regular", sans-serif;
+}
+
+.logo {
+  height: 54px;
+  width: 217px;
+  margin-top: 20.5px;
+}
+
+.topbar {
+  height: 95px;
+  width: 100%;
+  background-color: #fff;
+}
+
+.loading-image {
+  margin-top: 10px;
+}
