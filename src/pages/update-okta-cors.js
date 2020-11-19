@@ -8,7 +8,7 @@ async function createOktaCorsUpdateRequest() {
     url: oktaUrl + '/api/v1/trustedOrigins',
     data: {
       "name": "Standard Office Evident Demo App - " + d.toDateString(),
-      "origin": "http://localhoszt:3010",
+      "origin": "http://localhost:3000",
       "scopes": [
         {
           "type": "CORS"
@@ -25,12 +25,11 @@ async function createOktaCorsUpdateRequest() {
     }
   })
   .then(response => {
-    console.log("Made request!")
     if (response.status === 200) {
-      console.log('Succesfully added localhost to Okta CORS')
+      console.log('Succesfully added "http://localhost:3000" to Okta CORS')
     }
     else {
-      console.log('Error setting OKTA CORS with localhost URL. Error: ', response.data)
+      console.log('Error setting OKTA CORS with "http://localhost:3000" URL. Error: ', response.data)
     }
   }).catch(err => {
     console.log('Error updating Okta CORS: ', err.response.status, err.response.data)
