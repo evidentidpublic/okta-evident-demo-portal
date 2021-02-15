@@ -5,9 +5,10 @@
 	- The token must have at minimum “Group Administrator” role (for the group consuming the integration). The integration requires “user profile read and write privilege” for basic operation.
 	- Name the token “Evident API Token”
 	- Copy the API token to send to your Evident contact via a secure channel (next step)
-1. Follow this link to create tenant [still need to to create and add link]
+1. Follow this link to create an Evident tenant https://www.evidentid.com/okta_sandbox_setup/
 	- In the form, please include all fields as well as the API token created in (1) and the URL for your Okta tenant
 	- URL may look something like “https://dev-xyz.oktapreview.com” for a sandbox tenant or “https://evident.okta.com” for production
+	- Once the tenant is configured, the Evident customer successt team will reach out with instructions on how to find all Evident related API information needed to configure this app.
 1. Add 2 new Evident attributes to the Okta User profile
 	1. Inside the Okta admin portal, choose “Users” -> “Profile Editor”
 	1. Find the App/Profile you want the integration to work with, and hit “Edit Profile”
