@@ -1,5 +1,5 @@
 // Okta API Configurations
-const oktaUrl = 'insert okta url here'
+const oktaUrl = 'insert okta tenant url here. Please include https (example https://myoktatenant.okta.com)'
 const oktaApiToken = 'insert okta api token here'
 
 // Evident API Configurations
