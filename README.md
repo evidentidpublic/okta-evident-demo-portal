@@ -5,7 +5,7 @@ Leveraging both Evident and Okta APIs, it provides a framework for a seamless UX
 ## To Use:
 1. Clone this repo to your local machine, and navigate there
 2. Update all the values in "/src/pages/Config.js" to values obtained from Okta and Evident (see INSTRUCTIONS.md for more information on obtaining these keys)
-3. Ensure node is installed on your machine. If not, you can find more information here: https://nodejs.org/en/download/
+3. Ensure node v10 or v12 is installed on your machine. If not, you can find more information here: https://nodejs.org/en/download/
 4. Start up app
      - From root directory, run the following command: "npm install && npm start"
 
